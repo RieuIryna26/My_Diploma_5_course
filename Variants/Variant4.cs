@@ -17,7 +17,7 @@ namespace Variants
         public double delta0 { get; set; }
         public double a { get; set; }
         public double alpha { get; set; }
-        public double betta { get; set; }
+        public double betta { get; set; } 
         public double f { get; set; }
         public double tau { get; set; }
         public string path { get; set; }
